@@ -1,0 +1,23 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "HW1",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novikor-goit/goit-node-cli.git"
+  },
+  "author": "Maksym Novik <novik.kor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novikor-goit/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/novikor-goit/goit-node-cli#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^14.0.2"
+  }
+}
